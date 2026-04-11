@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">🚀 First-Year CSE(AI/ML) Student | Aspiring Software Developer | DSA Learner & Web Development Enthusiast</h3>
+<h3 align="center">🚀 First-Year CSE (AI/ML) Student | Aspiring Software Developer | DSA Learner & Web Development Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Hackathon+Explorer;Building+Cool+Projects&center=true&width=500&height=45">
@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind css,flask,python,node.js,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flask,python,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -34,28 +34,27 @@ Analyzes resumes and gives smart suggestions
 Productivity dashboard with authentication system  
 
 ### 🌐 Portfolio Website  
-Personal branding & project showcase   
-
+Personal branding & project showcase  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muskankr&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskankr&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskankr&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskankr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🧠 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskankr&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskankr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,15 +70,14 @@ Personal branding & project showcase
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/muskan-kumari-76361b378">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Muskankr">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
-
 
 ## 🎯 Current Focus  
 
