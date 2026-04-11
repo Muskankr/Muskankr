@@ -40,7 +40,7 @@ Personal branding & project showcase
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muskankr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muskankr&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Personal branding & project showcase
 
 ## 🧠 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskankr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskankr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -64,8 +64,6 @@ Personal branding & project showcase
 <p align="center">
   <img src="https://raw.githubusercontent.com/Muskankr/Muskankr/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 ## 🌐 Connect with Me  
 <p align="center">
