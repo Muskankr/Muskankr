@@ -81,7 +81,8 @@ Personal branding & project showcase
 
 - 📌 DSA Practice (LeetCode)  
 - 📌 Full Stack Projects  
-- 📌 Hackathons & Open Source  
+- 📌 Hackathons & Open Source
+- 📌 Open Source Contribution
 
 ---
 
