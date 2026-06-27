@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">🚀 First-Year CSE (AI/ML) Student | Aspiring Software Developer | Open Source Contributor, DSA Learner & Web Development Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE (AI/ML) Student | Aspiring Software Developer | Open Source Contributor, DSA Learner & Web Development Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Hackathon+Explorer;Building+Cool+Projects&center=true&width=500&height=45">
