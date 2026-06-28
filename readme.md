@@ -9,9 +9,23 @@
 
 ## 👩‍💻 About Me  
 - 🔭 Currently building **Next.js & AI projects**  
-- 🌱 Learning **Data Structures & Algorithms + Backend Development**  
+- 🌱 Learning **Data Structures & Algorithms + Backend Development**
+- 🏆 Ranked #8 among 1000+ contributors in NSOC'26
+- 🚀 502 Pull Requests merged during NSOC'26
 - 🧠 Preparing for **Internships + Hackathons**  
 - ⚡ Fun fact: I love turning ideas into real products 💡  
+
+---
+
+## 🏆 Achievements
+
+🥇 **Rank #8 among 1000+ contributors** in NSOC'26 (National Summer of Code)
+
+🚀 Successfully merged **502 Pull Requests** across open-source repositories during NSOC'26
+
+🌟 Selected as **GeeksforGeeks Campus Mantri**
+
+💻 Passionate Open Source Contributor & Full Stack Developer
 
 ---
 
