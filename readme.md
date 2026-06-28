@@ -19,7 +19,7 @@
 
 ## 🏆 Achievements
 
-🥇 **Rank #8 among 1000+ contributors** in NSOC'26 (National Summer of Code)
+🥇 **Rank #8 among 1000+ contributors** in NSOC'26  
 
 🚀 Successfully merged **502 Pull Requests** across open-source repositories during NSOC'26
 
