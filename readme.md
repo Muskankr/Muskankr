@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">🚀 B.Tech CSE (AI/ML) Student | Aspiring Software Developer | Open Source Contributor, DSA Learner & Web Development Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
+
+<h3 align="center">
+Full Stack Developer • Open Source Contributor • Project Admin @ ECSOC'26 • AI/ML Student
+</h3>
+
+<p align="center">
+Building AI-powered applications • Contributing to Open Source • Solving DSA
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Hackathon+Explorer;Building+Cool+Projects&center=true&width=500&height=45">
@@ -7,25 +14,36 @@
 
 ---
 
-## 👩‍💻 About Me  
-- 🔭 Currently building **Next.js & AI projects**  
-- 🌱 Learning **Data Structures & Algorithms + Backend Development**
-- 🏆 Ranked #8 among 1000+ contributors in NSOC'26
-- 🚀 502 Pull Requests merged during NSOC'26
-- 🧠 Preparing for **Internships + Hackathons**  
-- ⚡ Fun fact: I love turning ideas into real products 💡  
+## 👩‍💻 About Me
+
+- 👩‍💻 Project Admin at **ECSOC'26**
+- 🌍 Open Source Contributor at **NSOC'26 • GSSOC'26 • SSOC'26**
+- 🏆 Ranked **#8 among 1000+ contributors** in NSOC'26
+- 🚀 Successfully merged **502 Pull Requests** during NSOC'26
+- 💻 Building AI-powered Full Stack applications using React, Next.js, Flask & Node.js
+- 📚 Solving Data Structures & Algorithms on LeetCode & GeeksforGeeks
+- 🧠 Preparing for Software Engineering Internships
+- ⚡ I enjoy building products that solve real-world problems.
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **Rank #8 among 1000+ contributors** in NSOC'26  
+🥇 Top 10 Contributor in NSOC'26 (#8)
 
-🚀 Successfully merged **502 Pull Requests** across open-source repositories during NSOC'26
+🚀 502 Pull Requests Merged
 
-🌟 Selected as **GeeksforGeeks Campus Mantri**
+👩‍💻 Project Admin — ECSOC'26
 
-💻 Passionate Open Source Contributor & Full Stack Developer
+🌍 Contributor — GSSOC'26
+
+🌍 Contributor — SSOC'26
+
+⭐ GeeksforGeeks Campus Mantri
+
+💡 Hackathon Participant
+
+📚 Active DSA Practice on LeetCode & GeeksforGeeks
 
 ---
 
@@ -38,18 +56,17 @@
 
 ## 🚀 Featured Projects  
 
-### 💡 Smart Study Assistant  
-AI-powered platform to help students learn efficiently  
+### 🤖 AI Resume Analyzer
+ATS Resume Analysis platform built using React, Django and AI-powered resume insights.
 
-### 🤖 AI Resume Analyzer  
-Analyzes resumes and gives smart suggestions  
+### 📚 Smart Study Assistant
+AI learning assistant powered by Gemini API with quizzes, notes and productivity tools.
 
-### 📊 Dev Dashboard  
-Productivity dashboard with authentication system  
+### 💰 ExpenseFlow
+Full Stack expense management application with authentication and analytics.
 
-### 🌐 Portfolio Website  
-Personal branding & project showcase  
-
+### 🌐 Personal Portfolio
+Modern responsive portfolio showcasing projects, achievements and technical skills.
 ---
 
 ## 📊 GitHub Stats  
@@ -91,14 +108,27 @@ Personal branding & project showcase
 
 ---
 
-## 🎯 Current Focus  
+## 🎯 Current Focus
 
-- 📌 DSA Practice (LeetCode)  
-- 📌 Full Stack Projects  
-- 📌 Hackathons & Open Source
-- 📌 Open Source Contribution
+- 🚀 Building AI + Full Stack Projects
+- 📚 Daily DSA Practice
+- 🌍 Managing ECSOC'26 Open Source Repositories
+- 🤝 Contributing to GSSOC'26 & SSOC'26
+- 💼 Preparing for Software Engineering Internships
 
 ---
+
+## 🌍 Open Source Journey
+
+🏆 NSOC'26 — Rank #8 | 502 PRs Merged
+
+👩‍💻 Project Admin — ECSOC'26
+
+🌍 Contributor — GSSOC'26
+
+🌍 Contributor — SSOC'26
+
+🤝 Passionate about collaborating on impactful open-source projects.
 
 ## ✨ Quote  
 
