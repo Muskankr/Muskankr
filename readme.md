@@ -167,9 +167,9 @@ Open Source Contributor
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn]
-- 🌐 Portfolio: [Add your Portfolio]
-- 📧 Email: [Add your Email]
+- 💼 LinkedIn: (https://www.linkedin.com/in/muskan-kumari-76361b378)
+- 🌐 Portfolio: https://personal-portfolio-one-delta-41.vercel.app/
+- 📧 Email: mkr803967@gmail.com
 - 💻 GitHub: https://github.com/Muskankr
 
 ---
