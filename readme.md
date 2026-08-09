@@ -1,139 +1,185 @@
-<h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
+# 👋 Hi, I'm Muskan Kumari
 
-<h3 align="center">
-Full Stack Developer • Open Source Contributor • Project Admin @ ECSOC'26 • AI/ML Student
-</h3>
+### 💻 B.Tech CSE (AI & ML) Student | Full Stack Developer | Open Source Contributor
+
+I build **AI-powered and full-stack web applications** that solve real-world problems.
+
+Currently focused on **Full Stack Development, AI/ML, DSA, and Open Source** while preparing for Software Engineering internships.
+
+---
+
+## 🚀 About Me
+
+- 💻 Building AI-powered Full Stack applications
+- 🌍 Open Source Contributor — **NSOC'26 • GSSOC'26 • SSOC'26**
+- 🏆 **#8 among 1000+ contributors** in NSOC'26
+- 🚀 **502 Pull Requests merged** during NSOC'26
+- 👩‍💻 **Project Admin — ECSOC'26**
+- ⭐ GeeksforGeeks Campus Mantri
+- 📚 Practicing DSA on LeetCode & GeeksforGeeks
+- 🧠 Exploring AI/ML and modern web technologies
+- 💼 Preparing for Software Engineering Internships
+
+---
+
+## 🏆 Highlights
+
+| Achievement | Details |
+|---|---|
+| 🏆 NSOC'26 | **Rank #8 / 1000+ contributors** |
+| 🚀 Open Source | **502 PRs merged** |
+| 👩‍💻 ECSOC'26 | **Project Admin** |
+| 🌍 GSSOC'26 | Contributor |
+| 🌍 SSOC'26 | Contributor |
+| ⭐ GFG | Campus Mantri |
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Python • JavaScript • TypeScript • C
+
+### Frontend
+React.js • Next.js • HTML • CSS • Tailwind CSS
+
+### Backend
+Node.js • Express.js • Flask • REST APIs
+
+### Databases
+MongoDB • MySQL • SQLite • Supabase
+
+### AI / ML
+Python • NumPy • Pandas • Matplotlib • Scikit-learn • Gemini API
+
+### Tools
+Git • GitHub • Postman • Vercel • Netlify • Render
+
+---
+
+# 🚀 Featured Projects
+
+## 🌉 SkillBridge — AI-Powered Career Platform
+
+A full-stack platform designed to help students build and showcase their developer identity.
+
+### Features
+
+- 👤 Developer profile & portfolio
+- 📊 Career score & profile completion
+- 🏆 Achievements & certificates
+- 🔗 GitHub profile & repository insights
+- ⚡ XP & gamification system
+- 🎯 Daily challenges
+- 🔗 Shareable professional profile
+- 📱 Responsive dashboard
+
+### Tech Stack
+
+**Next.js • React • TypeScript • Tailwind CSS • Supabase**
+
+🔗 **Live:** https://skillbridge-zeta-ten.vercel.app/
+
+---
+
+## 🤖 AI Resume Analyzer
+
+ATS-focused resume analysis platform providing AI-powered insights to help improve resumes.
+
+**Tech:** React • TypeScript • Django • AI
+
+---
+
+## 📚 Smart Study Assistant
+
+AI-powered learning platform with quizzes, notes and productivity features.
+
+**Tech:** React • Gemini API
+
+---
+
+## 💰 ExpenseFlow
+
+Full-stack expense management application with authentication and analytics.
+
+**Tech:** React • Flask/Node.js • SQL • REST API
+
+---
+
+# 🌍 Open Source Journey
+
+### 🏆 NSOC'26
+
+**Rank #8 | 502 PRs Merged**
+
+Contributed consistently to open-source projects and collaborated with developers across multiple repositories.
+
+### 👩‍💻 ECSOC'26
+
+**Project Admin**
+
+Managing repositories, issues, contributors and project development.
+
+### 🌍 GSSOC'26
+
+Open Source Contributor
+
+### 🌍 SSOC'26
+
+Open Source Contributor
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-Building AI-powered applications • Contributing to Open Source • Solving DSA
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskankr&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Hackathon+Explorer;Building+Cool+Projects&center=true&width=500&height=45">
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 👩‍💻 Project Admin at **ECSOC'26**
-- 🌍 Open Source Contributor at **NSOC'26 • GSSOC'26 • SSOC'26**
-- 🏆 Ranked **#8 among 1000+ contributors** in NSOC'26
-- 🚀 Successfully merged **502 Pull Requests** during NSOC'26
-- 💻 Building AI-powered Full Stack applications using React, Next.js, Flask & Node.js
-- 📚 Solving Data Structures & Algorithms on LeetCode & GeeksforGeeks
-- 🧠 Preparing for Software Engineering Internships
-- ⚡ I enjoy building products that solve real-world problems.
-
----
-
-## 🏆 Achievements
-
-🥇 Top 10 Contributor in NSOC'26 (#8)
-
-🚀 502 Pull Requests Merged
-
-👩‍💻 Project Admin — ECSOC'26
-
-🌍 Contributor — GSSOC'26
-
-🌍 Contributor — SSOC'26
-
-⭐ GeeksforGeeks Campus Mantri
-
-💡 Hackathon Participant
-
-📚 Active DSA Practice on LeetCode & GeeksforGeeks
-
----
-
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flask,python,nodejs,express,mongodb,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🤖 AI Resume Analyzer
-ATS Resume Analysis platform built using React, Django and AI-powered resume insights.
-
-### 📚 Smart Study Assistant
-AI learning assistant powered by Gemini API with quizzes, notes and productivity tools.
-
-### 💰 ExpenseFlow
-Full Stack expense management application with authentication and analytics.
-
-### 🌐 Personal Portfolio
-Modern responsive portfolio showcasing projects, achievements and technical skills.
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muskankr&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskankr&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🧠 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskankr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskankr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake  
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Muskankr/Muskankr/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/muskan-kumari-76361b378">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Muskankr">
-    <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- 🚀 Building AI + Full Stack Projects
-- 📚 Daily DSA Practice
-- 🌍 Managing ECSOC'26 Open Source Repositories
-- 🤝 Contributing to GSSOC'26 & SSOC'26
+- 🚀 Building production-ready Full Stack applications
+- 🤖 Exploring AI-powered applications
+- 📚 Strengthening DSA fundamentals
+- 🌍 Contributing to Open Source
+- ☁️ Learning deployment and cloud technologies
 - 💼 Preparing for Software Engineering Internships
 
 ---
 
-## 🌍 Open Source Journey
+# 🌐 Connect With Me
 
-🏆 NSOC'26 — Rank #8 | 502 PRs Merged
-
-👩‍💻 Project Admin — ECSOC'26
-
-🌍 Contributor — GSSOC'26
-
-🌍 Contributor — SSOC'26
-
-🤝 Passionate about collaborating on impactful open-source projects.
-
-## ✨ Quote  
-
-> "Consistency + Projects + DSA = Dream Developer 💻🔥"
+- 💼 LinkedIn: [Add your LinkedIn]
+- 🌐 Portfolio: [Add your Portfolio]
+- 📧 Email: [Add your Email]
+- 💻 GitHub: https://github.com/Muskankr
 
 ---
 
-⭐️ From Muskan — building, learning, and growing every day 🚀
+## 💡 Developer Philosophy
+
+> **Build. Learn. Contribute. Repeat. 🚀**
+
+⭐ If you find my projects useful, consider giving them a star!
+
+---
+
+### 👩‍💻 From Muskan — building, learning and growing every day 🚀
