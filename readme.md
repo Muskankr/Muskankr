@@ -25,9 +25,7 @@
   <a href="https://www.linkedin.com/in/muskan-kumari-76361b378">
     <img src="https://img.shields.io/badge/LinkedIn-Muskan%20Kumari-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://personal-portfolio-one-delta-41.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=flat-square&logo=vercel" />
-  </a>
+  
 </p>
 
 <p align="center">
@@ -295,10 +293,6 @@ Actively participating in open-source development.
 
 <a href="https://www.linkedin.com/in/muskan-kumari-76361b378">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://personal-portfolio-one-delta-41.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel" />
 </a>
 
 <a href="mailto:mkr803967@gmail.com">
