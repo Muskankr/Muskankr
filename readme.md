@@ -2,6 +2,10 @@
 
 ### 💻 B.Tech CSE (AI & ML) Student | Full Stack Developer | Open Source Contributor
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Muskankr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 I build **AI-powered and full-stack web applications** that solve real-world problems.
 
 Currently focused on **Full Stack Development, AI/ML, DSA, and Open Source** while preparing for Software Engineering internships.
